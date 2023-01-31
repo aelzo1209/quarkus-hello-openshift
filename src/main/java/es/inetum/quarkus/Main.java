@@ -3,11 +3,11 @@ package es.inetum.quarkus;
 import io.quarkus.runtime.annotations.QuarkusMain;
 import io.quarkus.runtime.Quarkus;
 
-@QuarkusMain  
+//@QuarkusMain  
 public class Main {
 
-    public static void main(String ... args) {
+    /*public static void main(String ... args) {
         System.out.println("Running main method");
         Quarkus.run(args); 
-    }
+    }*/
 }
